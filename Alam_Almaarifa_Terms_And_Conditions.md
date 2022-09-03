@@ -11,7 +11,7 @@ The app does use third-party services that declare their Terms and Conditions.
 Link to Terms and Conditions of third-party service providers used by the app
 
 *   [Google Play Services](https://policies.google.com/terms)
-*   [AdMob](https://developers.google.com/admob/terms)
+*   [Meta Audience Network](https://www.facebook.com/legal/terms/customaudience)
 *   [Google Analytics for Firebase](https://firebase.google.com/terms/analytics)
 *   [Firebase Crashlytics](https://firebase.google.com/terms/crashlytics)
 *   [Facebook](https://www.facebook.com/legal/terms/plain_text_terms)
